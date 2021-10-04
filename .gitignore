@@ -8,3 +8,4 @@ __pycache__/
 
 # Ignore db
 data.db
+.DS_Store
