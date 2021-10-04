@@ -4,8 +4,10 @@ python:
 
 before_install:
   - python -m pip install --upgrade pip
+
 install:
   - pip install pytest
   - pip install --user -r requirements.txt
 
-script: python -m pytest tests/
+script:
+  - python -m pytest tests/
