@@ -1,7 +1,7 @@
 # Ignore venv
 api_testing/
-*.vscode/
-*section_6.code-workspace
+.vscode/
+section_6.code-workspace
 
 # Ignore chages
 __pycache__/
