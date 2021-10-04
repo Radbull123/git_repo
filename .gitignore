@@ -1,6 +1,7 @@
 # Ignore venv
 api_testing/
+.vscode/
 
 # Ignore chages
 __pycache__/
-.pytest_cace/
+.pytest_cache/
