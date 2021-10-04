@@ -1,0 +1,6 @@
+# Ignore venv
+api_testing/
+
+# Ignore chages
+__pycache__/
+.pytest_cace/
